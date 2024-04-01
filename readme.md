@@ -9,8 +9,8 @@ This project aims to provide a user-friendly interface for users to input text a
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using ```bashpip install -r requirements.txt```.
-3. Run the Streamlit application using ```bashstreamlit run main.py```.
+2. Install the required dependencies using ```pip install -r requirements.txt```.
+3. Run the Streamlit application using ```streamlit run main.py```.
 4. Input text into the provided textbox.
 5. Click the "Predict" button to see the prediction.
 
